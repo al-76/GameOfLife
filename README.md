@@ -1,5 +1,5 @@
-# GameOfLife
-This is an implementation of the Game Of Life by the British mathematician John Horton Conway.
+# Conway's Game of Life
+This is an implementation of the Game of Life by the British mathematician John Horton Conway.
 
 ![Simulator Screen Recording - iPhone 11 - 2022-05-21 at 14 15 15](https://user-images.githubusercontent.com/19591052/169649234-1003e8ab-bb2b-40a0-b27c-cd841981fd71.gif)
 
